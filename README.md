@@ -43,7 +43,7 @@ mindset: "Product-driven engineering with a bias toward shipping"
 open_to: ["Internships", "Open Source Contributions"]
 ```
 
-I'm **Abyyy**, a Computer Science (AI & ML) student passionate about building software, solving problems with C++, and exploring Artificial Intelligence. I enjoy developing practical applications, learning modern technologies, and continuously improving my engineering skills — with a strong focus on writing clean, efficient, and scalable code.
+I'm **Aby**, a Computer Science (AI & ML) student passionate about building software, solving problems with C++, and exploring Artificial Intelligence. I enjoy developing practical applications, learning modern technologies, and continuously improving my engineering skills — with a strong focus on writing clean, efficient, and scalable code.
 
 I approach every project with a product engineer's mindset: understanding the problem first, then building something that actually works end-to-end — from backend logic to a usable interface.
 
