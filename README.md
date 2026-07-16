@@ -34,7 +34,7 @@
 ## 🟣 About Me
 
 ```yaml
-name: "Abyyy"
+name: "Aby S Biju"
 role: "Software Engineer | AI Engineer | Backend Developer"
 degree: "B.Tech Computer Science Engineering (AI & ML)"
 institution: "College of Engineering Chengannur, India"
