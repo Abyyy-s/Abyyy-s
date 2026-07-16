@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,50:7C3AED,100:4C1D95&height=220&section=header&text=Aby%20S%20Biju&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%2F%20ML%20Enthusiast%20%7C%20Backend%20Developer&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,50:7C3AED,100:4C1D95&height=220&section=header&text=Abyyy%20S%20Biju&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%2F%20ML%20Enthusiast%20%7C%20Backend%20Developer&descAlignY=58&descSize=18"/>
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> <b>Hey there, thanks for stopping by!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+
+<br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=B.Tech+CSE+(AI+%26+ML)+Student;C%2B%2B+%7C+Python+%7C+JavaScript+Developer;Exploring+Artificial+Intelligence;Building+Practical%2C+Real-World+Software" alt="Typing SVG"/>
@@ -27,14 +31,17 @@
 
 </div>
 
-<br/>
-
----
+<img src="https://raw.githubusercontent.com/mayankm26/mayankm26/master/rainbow-superthin.gif" width="100%"/>
 
 ## 🟣 About Me
 
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
+</div>
+
+
 ```yaml
-name: "Aby S Biju"
+name: "Abyyy S Biju"
 role: "Software Engineer | AI Engineer | Backend Developer"
 degree: "B.Tech Computer Science Engineering (AI & ML)"
 institution: "College of Engineering Chengannur, India"
@@ -43,7 +50,7 @@ mindset: "Product-driven engineering with a bias toward shipping"
 open_to: ["Internships", "Open Source Contributions"]
 ```
 
-I'm **Aby**, a Computer Science (AI & ML) student passionate about building software, solving problems with C++, and exploring Artificial Intelligence. I enjoy developing practical applications, learning modern technologies, and continuously improving my engineering skills — with a strong focus on writing clean, efficient, and scalable code.
+I'm **Abyyy**, a Computer Science (AI & ML) student passionate about building software, solving problems with C++, and exploring Artificial Intelligence. I enjoy developing practical applications, learning modern technologies, and continuously improving my engineering skills — with a strong focus on writing clean, efficient, and scalable code.
 
 I approach every project with a product engineer's mindset: understanding the problem first, then building something that actually works end-to-end — from backend logic to a usable interface.
 
@@ -167,7 +174,7 @@ Life Link combines a Flask backend with a MySQL data layer to manage blood inven
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/mayankm26/mayankm26/master/rainbow-superthin.gif" width="100%"/>
 
 ## 🟣 GitHub Analytics
 
@@ -214,6 +221,10 @@ Life Link combines a Flask backend with a MySQL data layer to manage blood inven
 
 ## 🟣 Current Focus
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=600&color=8B5CF6&center=true&vCenter=true&width=500&lines=learning...+Deep+Learning+%26+DSA;building...+ChronoWall;exploring...+Cybersecurity+%26+Linux" alt="Current Focus Typing"/>
+</div>
+
 ```yaml
 learning:
   - C++
@@ -246,7 +257,7 @@ open_to:
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/mayankm26/mayankm26/master/rainbow-superthin.gif" width="100%"/>
 
 <div align="center">
 
