@@ -2,8 +2,9 @@ name: generate snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs once a day
-  workflow_dispatch: {}    # lets you trigger it manually
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:
   push:
     branches:
       - main
