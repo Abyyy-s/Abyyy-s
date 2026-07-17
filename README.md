@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,50:7C3AED,100:4C1D95&height=220&section=header&text=Aby%20S%20Biju&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%2F%20ML%20Enthusiast%20%7C%20Backend%20Developer&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,50:7C3AED,100:4C1D95&height=220&section=header&text=Abyyy%20S%20Biju&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20C%2B%2B%20%26%20Systems%20Programming%20%7C%20AI%20%2F%20ML%20Enthusiast&descAlignY=58&descSize=18"/>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> <b>Hey there, thanks for stopping by!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 
@@ -41,18 +41,18 @@
 
 
 ```yaml
-name: "Aby S Biju"
-role: "Software Engineer | AI Engineer | Backend Developer"
+name: "Abyyy S Biju"
+role: "Software Engineer | AI Engineer | Systems Programmer"
 degree: "B.Tech Computer Science Engineering (AI & ML)"
 institution: "College of Engineering Chengannur, India"
-focus: ["Data Structures & Algorithms", "Artificial Intelligence", "Linux", "Computer Networks", "Backend Development"]
-mindset: "Product-driven engineering with a bias toward shipping"
+focus: ["C++ & Systems Programming", "Data Structures & Algorithms", "Performance Engineering", "Artificial Intelligence", "Linux", "Computer Networks"]
+mindset: "Low-level thinker with a bias toward efficient, well-engineered systems"
 open_to: ["Internships", "Open Source Contributions"]
 ```
 
-I'm **Abyyy**, a Computer Science (AI & ML) student passionate about building software, solving problems with C++, and exploring Artificial Intelligence. I enjoy developing practical applications, learning modern technologies, and continuously improving my engineering skills — with a strong focus on writing clean, efficient, and scalable code.
+I'm **Abyyy**, a Computer Science (AI & ML) student with a strong pull toward **C++ and systems-level programming** — I care about how software actually runs, not just what it outputs. I enjoy digging into memory management, performance, and the mechanics under the hood, and I bring that same rigor to every project I build, from low-level experiments to full applications.
 
-I approach every project with a product engineer's mindset: understanding the problem first, then building something that actually works end-to-end — from backend logic to a usable interface.
+Alongside that, I'm exploring Artificial Intelligence and building practical, real-world software — but the engineering discipline I picked up from C++ is what shapes how I approach every problem: understand the system first, then build something efficient and built to last.
 
 **🎯 Currently open to:** Internships · Open Source Contributions
 
@@ -62,9 +62,9 @@ I approach every project with a product engineer's mindset: understanding the pr
 
 <div align="center">
 
-**Languages**
+**Languages** — C++ first, always
 
-![Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css&theme=dark)
+![Skills](https://skillicons.dev/icons?i=cpp,c,py,js,html,css&theme=dark)
 
 **Backend & Databases**
 
@@ -77,6 +77,18 @@ I approach every project with a product engineer's mindset: understanding the pr
 **Tooling**
 
 ![Skills](https://skillicons.dev/icons?i=vscode&theme=dark)
+
+</div>
+
+> 🔧 **C++ is home base.** It's where I learned to think about performance, memory, and how software actually behaves under the hood — that mindset carries into everything else I build.
+
+---
+
+## 🟣 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abyyy-s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD"/>
 
 </div>
 
@@ -182,8 +194,6 @@ Life Link combines a Flask backend with a MySQL data layer to manage blood inven
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abyyy-s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Abyyy-s&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abyyy-s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD"/>
 
 </div>
 
