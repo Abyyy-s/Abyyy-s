@@ -10,6 +10,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=B.Tech+CSE+(AI+%26+ML)+Student;C%2B%2B+%7C+Python+%7C+JavaScript+Developer;Exploring+Artificial+Intelligence;Building+Practical%2C+Real-World+Software" alt="Typing SVG"/>
 </a>
 
+
+
 <br/>
 
 ![Academic](https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20ML)-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
