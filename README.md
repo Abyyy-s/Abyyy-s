@@ -143,6 +143,8 @@ Life Link combines a Flask backend with a MySQL data layer to manage blood inven
 
 </details>
 
+
+
 ---
 
 ## 🟣 Achievements
