@@ -66,6 +66,8 @@ I approach every project with a product engineer's mindset: understanding the pr
 
 **🎯 Currently open to:** Internships · Open Source Contributions
 
+
+
 ---
 
 ## 🟣 Tech Stack
