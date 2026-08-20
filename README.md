@@ -1,10 +1,4 @@
 <div align="center">
-
-
-
-
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,50:7C3AED,100:4C1D95&height=220&section=header&text=Aby%20S%20Biju&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%2F%20ML%20Enthusiast%20%7C%20Backend%20Developer&descAlignY=58&descSize=18"/>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> <b>Hey there, thanks for stopping by!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
