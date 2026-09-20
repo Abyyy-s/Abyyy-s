@@ -51,6 +51,11 @@
   <img src="./github-metrics.svg" alt="Isometric Calendar & Languages Activity" width="75%" />
 </p>
 
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages by Commit" width="48%" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages by Repo" width="48%" />
+</p>
+
 ---
 
 ## 🎵 Spotify Live View
