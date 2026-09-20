@@ -24,5 +24,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
+          repositories_affiliations: owner
           config_timezone: Asia/Kolkata
           committer_message: "chore: update metrics [skip ci]"
