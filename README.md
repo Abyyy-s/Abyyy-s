@@ -75,7 +75,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ulHcNwK1q_U">
-    <img src="./spotify-player.svg" alt="Demi Lovato - I Will Survive" width="85%" />
+    <img src="./music-player.svg" alt="Demi Lovato - I Will Survive" width="85%" />
   </a>
 </p>
 

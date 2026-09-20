@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 150" width="680" height="150">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0e111a" />
+      <stop offset="50%" stop-color="#121024" />
+      <stop offset="100%" stop-color="#0a0c14" />
+    </linearGradient>
+
+    <!-- Glowing Border Gradient -->
+    <linearGradient id="border-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ec4899" stop-opacity="0.8" />
+      <stop offset="35%" stop-color="#8b5cf6" stop-opacity="0.6" />
+      <stop offset="70%" stop-color="#3b82f6" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0.8" />
+    </linearGradient>
+
+    <!-- Equalizer Bar Gradient (Neon Sunset to Cyan) -->
+    <linearGradient id="bar-grad" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#ec4899" />
+      <stop offset="40%" stop-color="#a855f7" />
+      <stop offset="80%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+
+    <!-- Progress Bar Gradient -->
+    <linearGradient id="prog-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ec4899" />
+      <stop offset="50%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+
+    <!-- Ambient Glow Filter -->
+    <filter id="ambient-blur" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="25" />
+    </filter>
+
+    <clipPath id="cover-clip">
+      <rect x="22" y="20" width="110" height="110" rx="12" />
+    </clipPath>
+  </defs>
+
+  <style>
+    .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 21px; font-weight: 700; fill: #ffffff; letter-spacing: -0.3px; }
+    .artist { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500; fill: #a5b4fc; }
+    .badge { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 10.5px; font-weight: 700; fill: #f472b6; letter-spacing: 1.8px; text-transform: uppercase; }
+    .timestamp { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 500; fill: #64748b; }
+    .eq-bar { fill: url(#bar-grad); }
+    @keyframes pulse-ring {
+      0% { transform: scale(0.95); opacity: 0.6; }
+      50% { transform: scale(1.08); opacity: 1; }
+      100% { transform: scale(0.95); opacity: 0.6; }
+    }
+    .live-pulse { animation: pulse-ring 2s ease-in-out infinite; transform-origin: 154px 34px; }
+    .bar-0 { animation: pulse-0 0.89s ease-in-out infinite alternate; animation-delay: -0.81s; transform-origin: center 88px; }
+@keyframes pulse-0 { 0% { transform: scaleY(0.34); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+.bar-1 { animation: pulse-1 1.06s ease-in-out infinite alternate; animation-delay: -0.53s; transform-origin: center 88px; }
+@keyframes pulse-1 { 0% { transform: scaleY(0.28); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+.bar-2 { animation: pulse-2 0.71s ease-in-out infinite alternate; animation-delay: -0.78s; transform-origin: center 88px; }
+@keyframes pulse-2 { 0% { transform: scaleY(0.21); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+.bar-3 { animation: pulse-3 0.95s ease-in-out infinite alternate; animation-delay: -0.79s; transform-origin: center 88px; }
+@keyframes pulse-3 { 0% { transform: scaleY(0.34); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+.bar-4 { animation: pulse-4 0.64s ease-in-out infinite alternate; animation-delay: -0.81s; transform-origin: center 88px; }
+@keyframes pulse-4 { 0% { transform: scaleY(0.17); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+.bar-5 { animation: pulse-5 0.98s ease-in-out infinite alternate; animation-delay: -0.63s; transform-origin: center 88px; }
+@keyframes pulse-5 { 0% { transform: scaleY(0.24); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+.bar-6 { animation: pulse-6 0.76s ease-in-out infinite alternate; animation-delay: -0.36s; transform-origin: center 88px; }
+@keyframes pulse-6 { 0% { transform: scaleY(0.23); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+.bar-7 { animation: pulse-7 0.7s ease-in-out infinite alternate; animation-delay: -0.57s; transform-origin: center 88px; }
+@keyframes pulse-7 { 0% { transform: scaleY(0.21); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+.bar-8 { animation: pulse-8 0.66s ease-in-out infinite alternate; animation-delay: -0.18s; transform-origin: center 88px; }
+@keyframes pulse-8 { 0% { transform: scaleY(0.29); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+.bar-9 { animation: pulse-9 0.93s ease-in-out infinite alternate; animation-delay: -0.12s; transform-origin: center 88px; }
+@keyframes pulse-9 { 0% { transform: scaleY(0.23); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+.bar-10 { animation: pulse-10 0.79s ease-in-out infinite alternate; animation-delay: -0.58s; transform-origin: center 88px; }
+@keyframes pulse-10 { 0% { transform: scaleY(0.23); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+.bar-11 { animation: pulse-11 0.93s ease-in-out infinite alternate; animation-delay: -0.99s; transform-origin: center 88px; }
+@keyframes pulse-11 { 0% { transform: scaleY(0.24); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+.bar-12 { animation: pulse-12 0.87s ease-in-out infinite alternate; animation-delay: -0.65s; transform-origin: center 88px; }
+@keyframes pulse-12 { 0% { transform: scaleY(0.15); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+.bar-13 { animation: pulse-13 0.95s ease-in-out infinite alternate; animation-delay: -0.99s; transform-origin: center 88px; }
+@keyframes pulse-13 { 0% { transform: scaleY(0.26); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+.bar-14 { animation: pulse-14 0.68s ease-in-out infinite alternate; animation-delay: -0.97s; transform-origin: center 88px; }
+@keyframes pulse-14 { 0% { transform: scaleY(0.19); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+.bar-15 { animation: pulse-15 0.63s ease-in-out infinite alternate; animation-delay: -0.85s; transform-origin: center 88px; }
+@keyframes pulse-15 { 0% { transform: scaleY(0.29); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+.bar-16 { animation: pulse-16 0.96s ease-in-out infinite alternate; animation-delay: -0.64s; transform-origin: center 88px; }
+@keyframes pulse-16 { 0% { transform: scaleY(0.28); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+.bar-17 { animation: pulse-17 0.84s ease-in-out infinite alternate; animation-delay: -0.5s; transform-origin: center 88px; }
+@keyframes pulse-17 { 0% { transform: scaleY(0.33); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+.bar-18 { animation: pulse-18 0.76s ease-in-out infinite alternate; animation-delay: -0.13s; transform-origin: center 88px; }
+@keyframes pulse-18 { 0% { transform: scaleY(0.29); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+.bar-19 { animation: pulse-19 0.94s ease-in-out infinite alternate; animation-delay: -0.99s; transform-origin: center 88px; }
+@keyframes pulse-19 { 0% { transform: scaleY(0.17); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+.bar-20 { animation: pulse-20 0.62s ease-in-out infinite alternate; animation-delay: -0.65s; transform-origin: center 88px; }
+@keyframes pulse-20 { 0% { transform: scaleY(0.34); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+.bar-21 { animation: pulse-21 1.04s ease-in-out infinite alternate; animation-delay: -0.16s; transform-origin: center 88px; }
+@keyframes pulse-21 { 0% { transform: scaleY(0.17); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+.bar-22 { animation: pulse-22 0.95s ease-in-out infinite alternate; animation-delay: -0.23s; transform-origin: center 88px; }
+@keyframes pulse-22 { 0% { transform: scaleY(0.31); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+.bar-23 { animation: pulse-23 1.0s ease-in-out infinite alternate; animation-delay: -0.86s; transform-origin: center 88px; }
+@keyframes pulse-23 { 0% { transform: scaleY(0.19); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+.bar-24 { animation: pulse-24 1.0s ease-in-out infinite alternate; animation-delay: -0.26s; transform-origin: center 88px; }
+@keyframes pulse-24 { 0% { transform: scaleY(0.33); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+.bar-25 { animation: pulse-25 0.82s ease-in-out infinite alternate; animation-delay: -0.11s; transform-origin: center 88px; }
+@keyframes pulse-25 { 0% { transform: scaleY(0.18); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+.bar-26 { animation: pulse-26 1.08s ease-in-out infinite alternate; animation-delay: -0.12s; transform-origin: center 88px; }
+@keyframes pulse-26 { 0% { transform: scaleY(0.22); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+.bar-27 { animation: pulse-27 0.63s ease-in-out infinite alternate; animation-delay: -0.45s; transform-origin: center 88px; }
+@keyframes pulse-27 { 0% { transform: scaleY(0.29); opacity: 0.65; } 100% { transform: scaleY(1); opacity: 1; } }
+  </style>
+
+  <!-- Ambient Glow Behind Card -->
+  <rect x="25" y="25" width="200" height="100" rx="20" fill="#a855f7" opacity="0.18" filter="url(#ambient-blur)" />
+  <rect x="400" y="25" width="250" height="100" rx="20" fill="#ec4899" opacity="0.14" filter="url(#ambient-blur)" />
+
+  <!-- Main Card Container with Subtle Gradient Border -->
+  <rect x="1" y="1" width="678" height="148" rx="16" fill="url(#bg-grad)" stroke="url(#border-grad)" stroke-width="1.5" />
+
+  <!-- Album Artwork with Drop Shadow -->
+  <rect x="22" y="20" width="110" height="110" rx="12" fill="#000000" opacity="0.4" />
+  <image href="data:image/jpeg;base64,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" x="22" y="20" width="110" height="110" clip-path="url(#cover-clip)" preserveAspectRatio="xMidYMid slice" />
+
+  <!-- Vinyl Groove Accent Over Cover -->
+  <circle cx="77" cy="75" r="18" fill="none" stroke="#ffffff" stroke-width="0.75" opacity="0.15" />
+  <circle cx="77" cy="75" r="8" fill="#121024" stroke="#ffffff" stroke-width="0.75" opacity="0.3" />
+
+  <!-- Top Badge: ON REPEAT / LIVE -->
+  <circle class="live-pulse" cx="154" cy="34" r="4" fill="#ec4899" />
+  <text class="badge" x="166" y="38">ON REPEAT • FAVORITE TRACK</text>
+
+  <!-- YouTube Music / Play Pill Icon (Top Right) -->
+  <g transform="translate(620, 22)">
+    <rect x="0" y="0" width="36" height="24" rx="12" fill="#ff0000" opacity="0.9" />
+    <polygon points="14,7 24,12 14,17" fill="#ffffff" />
+  </g>
+
+  <!-- Track Title & Artist -->
+  <text class="title" x="152" y="68">I Will Survive</text>
+  <text class="artist" x="152" y="90">Demi Lovato</text>
+
+  <!-- Timeline / Progress Bar -->
+  <rect x="152" y="112" width="185" height="4" rx="2" fill="#1e293b" />
+  <rect x="152" y="112" width="125" height="4" rx="2" fill="url(#prog-grad)" />
+  <circle cx="277" cy="114" r="3.5" fill="#f8fafc" />
+  <text class="timestamp" x="152" y="128">1:54</text>
+  <text class="timestamp" x="313" y="128">4:06</text>
+
+  <!-- Animated Equalizer Bars -->
+  <g id="equalizer">
+    <rect class="eq-bar bar-0" x="360.0" y="50" width="4.5" height="38" rx="2.2" /><rect class="eq-bar bar-1" x="370.0" y="50" width="4.5" height="38" rx="2.2" /><rect class="eq-bar bar-2" x="380.0" y="50" width="4.5" height="38" rx="2.2" /><rect class="eq-bar bar-3" x="390.0" y="50" width="4.5" height="38" rx="2.2" /><rect class="eq-bar bar-4" x="400.0" y="50" width="4.5" height="38" rx="2.2" /><rect class="eq-bar bar-5" x="410.0" y="50" width="4.5" height="38" rx="2.2" /><rect class="eq-bar bar-6" x="420.0" y="50" width="4.5" height="38" rx="2.2" /><rect class="eq-bar bar-7" x="430.0" y="50" width="4.5" height="38" rx="2.2" /><rect class="eq-bar bar-8" x="440.0" y="50" width="4.5" height="38" rx="2.2" /><rect class="eq-bar bar-9" x="450.0" y="50" width="4.5" height="38" rx="2.2" /><rect class="eq-bar bar-10" x="460.0" y="50" width="4.5" height="38" rx="2.2" /><rect class="eq-bar bar-11" x="470.0" y="50" width="4.5" height="38" rx="2.2" /><rect class="eq-bar bar-12" x="480.0" y="50" width="4.5" height="38" rx="2.2" /><rect class="eq-bar bar-13" x="490.0" y="50" width="4.5" height="38" rx="2.2" /><rect class="eq-bar bar-14" x="500.0" y="50" width="4.5" height="38" rx="2.2" /><rect class="eq-bar bar-15" x="510.0" y="50" width="4.5" height="38" rx="2.2" /><rect class="eq-bar bar-16" x="520.0" y="50" width="4.5" height="38" rx="2.2" /><rect class="eq-bar bar-17" x="530.0" y="50" width="4.5" height="38" rx="2.2" /><rect class="eq-bar bar-18" x="540.0" y="50" width="4.5" height="38" rx="2.2" /><rect class="eq-bar bar-19" x="550.0" y="50" width="4.5" height="38" rx="2.2" /><rect class="eq-bar bar-20" x="560.0" y="50" width="4.5" height="38" rx="2.2" /><rect class="eq-bar bar-21" x="570.0" y="50" width="4.5" height="38" rx="2.2" /><rect class="eq-bar bar-22" x="580.0" y="50" width="4.5" height="38" rx="2.2" /><rect class="eq-bar bar-23" x="590.0" y="50" width="4.5" height="38" rx="2.2" /><rect class="eq-bar bar-24" x="600.0" y="50" width="4.5" height="38" rx="2.2" /><rect class="eq-bar bar-25" x="610.0" y="50" width="4.5" height="38" rx="2.2" /><rect class="eq-bar bar-26" x="620.0" y="50" width="4.5" height="38" rx="2.2" /><rect class="eq-bar bar-27" x="630.0" y="50" width="4.5" height="38" rx="2.2" />
+  </g>
+</svg>
