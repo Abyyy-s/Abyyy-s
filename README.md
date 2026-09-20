@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=016EEA&vCenter=true&width=450&lines=C%2B%2B+%26+Systems+Engineer;Creator+of+ChronoWall;AI+%2F+ML+Undergrad;Building+Software+That+Lasts" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4375&pause=1425&color=016EEA&vCenter=true&width=450&lines=C%2B%2B+%26+Systems+Engineer;Creator+of+ChronoWall;AI+%2F+ML+Undergrad;Building+Software+That+Lasts" alt="Typing SVG" />
   </a>
 </p>
 
