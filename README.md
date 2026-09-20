@@ -45,10 +45,10 @@
 
 ---
 
-## 📈 Isometric Contribution Calendar
+## 📈 Isometric Calendar & Languages Activity
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="Isometric Calendar" width="75%" />
+  <img src="./github-metrics.svg" alt="Isometric Calendar & Languages Activity" width="75%" />
 </p>
 
 ---
