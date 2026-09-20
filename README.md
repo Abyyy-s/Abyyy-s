@@ -1,16 +1,14 @@
-<!-- TOP INTRO GREETING (Raymo111 Style) -->
+<!-- TOP INTRO GREETING (Raymo111 Intro GIF Banner) -->
 <p align="center">
-  <a href="https://github.com/Abyyy-s">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=👋+Hi+there!+I'm+Aby+S+Biju;Systems+%26+Low-Level+Engineer;Creator+of+ChronoWall" alt="Hi there! I'm Aby S Biju" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" width="100%" alt="Intro Banner" />
 </p>
 
-<!-- HERO SECTION: LEFT-ALIGNED TYPING & BIO, RIGHT-ALIGNED CODER GIF -->
-<img align="right" width="420" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" />
+<!-- HERO SECTION: LEFT-ALIGNED TYPING & BIO, RIGHT-ALIGNED CODER GIF (8BitJonny Style) -->
+<img align="right" width="42%" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" />
 
 <p>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=016EEA&vCenter=true&lines=Aby+S+Biju;C%2B%2B+%26+Systems+Engineer;Creator+of+ChronoWall;B.Tech+CSE+(AI+%26+ML)+Undergrad" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=016EEA&vCenter=true&width=450&lines=C%2B%2B+%26+Systems+Engineer;Creator+of+ChronoWall;AI+%2F+ML+Undergrad;Building+Software+That+Lasts" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,6 +25,8 @@
 <p>
   <a href="https://www.linkedin.com/in/aby-s-biju-795826339/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/Abyyys5"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.instagram.com/__abyyy__s__/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.quora.com/profile/ABY-S-BIJU-1"><img src="https://img.shields.io/badge/-Quora-B92B27?style=flat-square&logo=quora&logoColor=white" alt="Quora"></a>
   <a href="mailto:abisbiju321@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://leetcode.com/Abyyy-s"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
   <a href="https://github.com/Abyyy-s"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
@@ -39,13 +39,13 @@
 ## 📊 GitHub Stats & Productive Activity
 
 <p align="center">
-  <img width="330" src="https://raw.githubusercontent.com/Abyyy-s/Abyyy-s/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
-  <img width="530" src="https://raw.githubusercontent.com/Abyyy-s/Abyyy-s/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+  <a href="https://github.com/Abyyy-s"><img width="34%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" /></a>
+  <a href="https://github.com/Abyyy-s"><img width="64%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" /></a>
 </p>
 
 <!-- 8BITJONNY CONTRIBUTION AXIS GRAPH -->
 <p align="center">
-  <img width="870" src="https://raw.githubusercontent.com/Abyyy-s/Abyyy-s/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Contribution Axis Graph" />
+  <a href="https://github.com/Abyyy-s"><img width="100%" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Contribution Axis Graph" /></a>
 </p>
 
 ---
