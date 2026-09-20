@@ -36,10 +36,11 @@
 
 ---
 
-## 📊 Productive Time (Commit Activity)
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Abyyy-s"><img width="100%" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Contribution Axis Graph" /></a>
+  <a href="https://github.com/Abyyy-s"><img width="34%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" /></a>
+  <a href="https://github.com/Abyyy-s"><img width="64%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" /></a>
 </p>
 
 ---
