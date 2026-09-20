@@ -36,24 +36,18 @@
 
 ---
 
-## 📊 GitHub Stats & Productive Activity
+## 📊 Productive Time (Commit Activity)
 
-<p align="center">
-  <a href="https://github.com/Abyyy-s"><img width="34%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" /></a>
-  <a href="https://github.com/Abyyy-s"><img width="64%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" /></a>
-</p>
-
-<!-- 8BITJONNY CONTRIBUTION AXIS GRAPH -->
 <p align="center">
   <a href="https://github.com/Abyyy-s"><img width="100%" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Contribution Axis Graph" /></a>
 </p>
 
 ---
 
-## 📈 Lowlighter Metrics: Isometric Calendar & Languages
+## 📈 Isometric Contribution Calendar
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="Isometric Calendar & Languages" width="100%" />
+  <img src="./github-metrics.svg" alt="Isometric Calendar" width="75%" />
 </p>
 
 ---
