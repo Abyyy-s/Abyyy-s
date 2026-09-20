@@ -68,19 +68,19 @@
 
 <p align="center">
   <a href="https://github.com/Abyyy-s?tab=achievements">
-    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="70" alt="Quickdraw" title="Quickdraw: Closed an issue or PR within 5 minutes" />
+    <img src="./assets/achievements/quickdraw.png" width="70" alt="Quickdraw" title="Quickdraw: Closed an issue or PR within 5 minutes" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Abyyy-s?tab=achievements">
-    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="70" alt="YOLO" title="YOLO: Merged a PR without review" />
+    <img src="./assets/achievements/yolo.png" width="70" alt="YOLO" title="YOLO: Merged a PR without review" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Abyyy-s?tab=achievements">
-    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="70" alt="Pull Shark" title="Pull Shark: Opened PRs that have been merged" />
+    <img src="./assets/achievements/pull-shark.png" width="70" alt="Pull Shark" title="Pull Shark: Opened PRs that have been merged" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Abyyy-s?tab=achievements">
-    <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-e77cc82301c4.png" width="70" alt="Pair Extraordinaire" title="Pair Extraordinaire: Co-authored commits on merged pull request" />
+    <img src="./assets/achievements/pair-extraordinaire.png" width="70" alt="Pair Extraordinaire" title="Pair Extraordinaire: Co-authored commits on merged pull request" />
   </a>
 </p>
 
