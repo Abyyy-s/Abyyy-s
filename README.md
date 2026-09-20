@@ -71,11 +71,11 @@
 
 ---
 
-## 🎵 Spotify Live View
+## 🎵 Music & On Repeat
 
 <p align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://novatorem.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff" alt="Spotify Live Music" width="450" />
+  <a href="https://www.youtube.com/watch?v=ujA0Hlg5-_g">
+    <img src="./spotify-player.svg" alt="Sabi, MIA BOYKA - Базовый минимум" width="85%" />
   </a>
 </p>
 
