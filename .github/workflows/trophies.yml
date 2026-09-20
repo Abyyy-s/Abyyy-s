@@ -1,0 +1,30 @@
+name: Update GitHub Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/trophies.yml"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch updated trophies
+        run: |
+          curl -s "https://github-trophies.devomb.com/?username=Abyyy-s&theme=radical&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,PullRequest&no-frame=true&margin-w=4" > trophies.svg
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update GitHub trophies"
+          file_pattern: "trophies.svg"
