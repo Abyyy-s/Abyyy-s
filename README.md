@@ -1,286 +1,130 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,50:7C3AED,100:4C1D95&height=220&section=header&text=Aby%20S%20Biju&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%2F%20ML%20Enthusiast%20%7C%20Backend%20Developer&descAlignY=58&descSize=18"/>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> <b>Hey there, thanks for stopping by!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&stroke=7c3aed&strokeWidth=2&height=180&section=header&text=Aby%20S%20Biju&fontSize=42&fontColor=f8fafc&animation=fadeIn&fontAlignY=40&desc=Systems%20%7C%20Low-Level%20Engineering%20%7C%20Applied%20AI&descAlignY=62&descSize=16&descColor=a78bfa"/>
 
+<p align="center">
+  <a href="https://github.com/Abyyy-s"><img src="https://img.shields.io/badge/GitHub-181825?style=for-the-badge&logo=github&logoColor=cdd6f4"></a>
+  <a href="https://www.linkedin.com/in/aby-s-biju-795826339/"><img src="https://img.shields.io/badge/LinkedIn-181825?style=for-the-badge&logo=linkedin&logoColor=89b4fa"></a>
+  <a href="mailto:main-beingaby05@gmail.com"><img src="https://img.shields.io/badge/Email-181825?style=for-the-badge&logo=gmail&logoColor=f38ba8"></a>
+  <a href="https://leetcode.com/Abyyy-s"><img src="https://img.shields.io/badge/LeetCode-181825?style=for-the-badge&logo=leetcode&logoColor=fab387"></a>
+</p>
 
-  
+</div>
+
+<!-- BENTO ROW 1: BIO & LIVE STATUS -->
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>⚡ About Me</h3>
+      <p>
+        Computer Science Engineering (AI & ML) undergrad at <b>College of Engineering Chengannur</b>.
+        I focus on systems-level C++ engineering, planar topology optimization, and practical AI solutions.
+      </p>
+      <p>
+        Currently developing low-level desktop daemons, algorithmic core engines, and full-stack utilities with a strong bias toward performance, clean architecture, and shipping production code.
+      </p>
+    </td>
+    <td width="40%" valign="top">
+      <h3>📡 Live Status</h3>
+      <ul>
+        <li>🟢 <b>Status:</b> Building & Shipping</li>
+        <li>🔭 <b>Working on:</b> <code>hypergrid-lattice-core</code></li>
+        <li>🛠️ <b>Main Stack:</b> C++17/20, Linux, Python</li>
+        <li>📍 <b>Location:</b> Kerala, India</li>
+        <li>📫 <b>Open to:</b> Internships & Open Source</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<!-- BENTO ROW 2: FEATURED ENGINEERING / ARCHITECTURE -->
+<table width="100%">
+  <tr>
+    <td colspan="2">
+      <h3>🔬 Featured Architecture: <code>hypergrid-lattice-core</code></h3>
+      <p><i>Asynchronous planar-topology analyzer and bounded Hamiltonian trajectory optimizer for embedded runtimes.</i></p>
+      <pre>
+┌─────────────────────┐      ┌─────────────────────────┐      ┌─────────────────────────┐
+│ Raw Surface Buffer  │ ───► │  Gradient Tensor Pipe   │ ───► │  Discrete Lattice Synt  │
+└─────────────────────┘      └─────────────────────────┘      └────────────┬────────────┘
+                                                                           │
+┌─────────────────────┐      ┌─────────────────────────┐                   │
+│ Vector Path HUD     │ ◄─── │  Bounded State Search   │ ◄─────────────────┘
+└─────────────────────┘      └─────────────────────────┘
+      </pre>
+      <p>
+        <b>Tech:</b> <code>C++</code> · <code>ART / Android 10+</code> · <code>Jetpack Compose</code> · <b>Complexity:</b> <code>𝒪(V + E)</code>
+        <br/>
+        👉 <a href="https://github.com/Abyyy-s/hypergrid-lattice-core"><b>Inspect Repository →</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ <a href="https://github.com/Abyyy-s/ChronoWall">ChronoWall</a></h4>
+      <p>C++17 wallpaper daemon parsing GNOME dynamic XML schemas to schedule transitions on Cinnamon via <code>gsettings</code>.</p>
+      <p><b>Stack:</b> <code>C++17</code>, <code>Linux Desktop APIs</code>, <code>gsettings</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🩸 <a href="https://github.com/Abyyy-s/Blood_bank">Life Link</a></h4>
+      <p>Blood bank management platform with intelligent urgency detection, real-time inventory tracking, and donor coordination.</p>
+      <p><b>Stack:</b> <code>Flask</code>, <code>MySQL</code>, <code>JavaScript</code></p>
+    </td>
+  </tr>
+</table>
+
+<!-- BENTO ROW 3: TECH STACK -->
+<table width="100%">
+  <tr>
+    <td>
+      <h3>🛠️ Core Arsenal & Technologies</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=cpp,c,py,js,linux,bash,git,github,mysql,flask,vscode&theme=dark" />
+      </p>
+      <div align="center">
+        <code>C++17/20</code> • <code>Linux Systems</code> • <code>Algorithms & Data Structures</code> • <code>Computer Networks</code> • <code>Python / Applied AI</code>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- BENTO ROW 4: CONTRIBUTION MATRIX (SNAKE) -->
+<table width="100%">
+  <tr>
+    <td align="center">
+      <h3>👾 Contribution Grid Matrix</h3>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abyyy-s/Abyyy-s/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abyyy-s/Abyyy-s/output/github-contribution-grid-snake.svg">
+        <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Abyyy-s/Abyyy-s/output/github-contribution-grid-snake-dark.svg" width="100%">
+      </picture>
+      <p><i>Generated automatically via GitHub Actions workflow on every commit.</i></p>
+    </td>
+  </tr>
+</table>
+
+<!-- BENTO ROW 5: TELEMETRY & ANALYTICS -->
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>📈 GitHub Stats</h4>
+      <img src="https://github-readme-stats.vercel.app/api?username=Abyyy-s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>🔥 Current Streak</h4>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abyyy-s&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abyyy-s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" />
+    </td>
+  </tr>
+</table>
+
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=B.Tech+CSE+(AI+%26+ML)+Student;C%2B%2B+%7C+Python+%7C+JavaScript+Developer;Exploring+Artificial+Intelligence;Building+Practical%2C+Real-World+Software" alt="Typing SVG"/>
-</a>
-
-
-
-
-
-<br/>
-
-![Academic](https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20ML)-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![College](https://img.shields.io/badge/College%20of%20Engineering-Chengannur-4C1D95?style=for-the-badge&logo=readthedocs&logoColor=white)
-![Location](https://img.shields.io/badge/India-📍-5B21B6?style=for-the-badge)
-
-<br/>
-
-
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Abyyy-s)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aby-s-biju-795826339/)
-[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:main-beingaby05@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abyyy-s)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abyyy-s&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Abyyy-s?style=for-the-badge&color=6D28D9&labelColor=1e1e2e)
-![Stars](https://img.shields.io/github/stars/Abyyy-s?style=for-the-badge&color=A78BFA&labelColor=1e1e2e)
-
-</div>
-
-
-
-
-
-<img src="https://raw.githubusercontent.com/mayankm26/mayankm26/master/rainbow-superthin.gif" width="100%"/>
-
-## 🟣 About Me
-
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
-</div>
-
-
-```yaml
-name: "Aby S Biju"
-role: "Software Engineer | AI Engineer | Backend Developer"
-degree: "B.Tech Computer Science Engineering (AI & ML)"
-institution: "College of Engineering Chengannur, India"
-focus: ["Data Structures & Algorithms", "Artificial Intelligence", "Linux", "Computer Networks", "Backend Development"]
-mindset: "Product-driven engineering with a bias toward shipping"
-open_to: ["Internships", "Open Source Contributions"]
-```
-
-I'm **Aby**, a Computer Science (AI & ML) student passionate about building software, solving problems with C++, and exploring Artificial Intelligence. I enjoy developing practical applications, learning modern technologies, and continuously improving my engineering skills — with a strong focus on writing clean, efficient, and scalable code.
-
-I approach every project with a product engineer's mindset: understanding the problem first, then building something that actually works end-to-end — from backend logic to a usable interface.
-
-**🎯 Currently open to:** Internships · Open Source Contributions
-
-
-
----
-
-## 🟣 Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css&theme=dark)
-
-**Backend & Databases**
-
-![Skills](https://skillicons.dev/icons?i=flask,mysql&theme=dark)
-
-**Version Control & OS**
-
-![Skills](https://skillicons.dev/icons?i=git,github,linux&theme=dark)
-
-**Tooling**
-
-![Skills](https://skillicons.dev/icons?i=vscode&theme=dark)
-
-</div>
-
----
-
-## 🟣 AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|:--|:--:|:--|
-| **Artificial Intelligence** | 🟣🟣🟣⚪⚪ | Core AI concepts, applied problem solving |
-| **Machine Learning** | 🟣🟣🟣⚪⚪ | Foundational ML workflows & model building |
-| **Deep Learning** | 🟣🟣⚪⚪⚪ | Currently learning, hands-on exploration |
-| **Computer Vision** | 🟣🟣⚪⚪⚪ | Applied CV concepts for real-world use cases |
-| **Prompt Engineering** | 🟣🟣🟣⚪⚪ | Designing effective prompts for AI-driven apps |
-
-</div>
-
----
-
-## 🟣 Featured Projects
-
-<details open>
-<summary><b>⚡ ChronoWall</b></summary>
-<br/>
-
-A modern wallpaper management application developed using C++. Designed to manage wallpapers efficiently while learning advanced desktop application development concepts.
-
-| Aspect | Detail |
-|:--|:--|
-| **Stack** | C++ |
-| **Scale** | Desktop application |
-| **Performance** | Native, lightweight resource footprint |
-| **Security** | Local-first, no external data exposure |
-| **Impact** | Deepened understanding of desktop app architecture in C++ |
-| **Repository** | [ChronoWall](https://github.com/Abyyy-s/ChronoWall) |
-
-ChronoWall was built as a hands-on exercise in desktop application engineering — focusing on efficient wallpaper handling, clean C++ design, and a maintainable project structure.
-
-</details>
-
-<details>
-<summary><b>🩸 Life Link</b></summary>
-<br/>
-
-An AI-powered Blood Bank Management System designed to streamline blood inventory management, donor records, and hospital requests with intelligent urgency detection.
-
-| Aspect | Detail |
-|:--|:--|
-| **Stack** | Flask, MySQL, HTML, CSS, JavaScript |
-| **Scale** | Full-stack web application |
-| **Performance** | Optimized MySQL queries for real-time inventory tracking |
-| **Security** | Structured data validation and access control |
-| **Impact** | Streamlines donor management and reduces urgency-response time |
-| **Repository** | [Life Link](https://github.com/Abyyy-s/bloody) |
-
-Life Link combines a Flask backend with a MySQL data layer to manage blood inventory and hospital requests, incorporating intelligent urgency detection to prioritize critical cases.
-
-</details>
-
-
-
----
-
-## 🟣 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:--|:--|
-| 🎓 Academic Excellence | Pursuing B.Tech CSE (AI & ML) at College of Engineering Chengannur |
-| 💻 Self-Driven Builder | Actively building and shipping independent projects (ChronoWall, Life Link) |
-
-</div>
-
----
-
-## 🟣 Certifications
-
-<div align="center">
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-</div>
-
----
-
-## 🟣 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Abyyy-s)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/Abyyy-s)
-[![HackerRank](https://img.shields.io/badge/HackerRank-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/Abyyy-s)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B21B6?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/Abyyy-s)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/mayankm26/mayankm26/master/rainbow-superthin.gif" width="100%"/>
-
-## 🟣 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abyyy-s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Abyyy-s&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abyyy-s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD"/>
-
-</div>
-
----
-
-## 🟣 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abyyy-s&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
-
-</div>
-
----
-
-## 🟣 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abyyy-s&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD"/>
-
-</div>
-
----
-
-## 🟣 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Abyyy-s/Abyyy-s/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-## 🟣 Current Focus
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=600&color=8B5CF6&center=true&vCenter=true&width=500&lines=learning...+Deep+Learning+%26+DSA;building...+ChronoWall;exploring...+Cybersecurity+%26+Linux" alt="Current Focus Typing"/>
-</div>
-
-```yaml
-learning:
-  - C++
-  - Data Structures & Algorithms
-  - Computer Networks
-  - Deep Learning
-
-building:
-  - ChronoWall
-
-exploring:
-  - Linux
-  - Artificial Intelligence
-  - Cybersecurity
-
-open_to:
-  - Internships
-  - Open Source Contributions
-```
-
----
-
-## 🟣 Connect With Me
-
-
-
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/main--beingaby05%40gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:main-beingaby05@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Aby%20S%20Biju-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aby-s-biju-795826339/)
-[![GitHub](https://img.shields.io/badge/Abyyy--s-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abyyy-s)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/mayankm26/mayankm26/master/rainbow-superthin.gif" width="100%"/>
-
-<div align="center">
-
-*"Building today. Improving every day."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:5B21B6&height=120&section=footer"/>
-
+  <sub>Designed & Engineered by <a href="https://github.com/Abyyy-s">Aby S Biju</a> • <i>"Building today. Improving every day."</i></sub>
 </div>
