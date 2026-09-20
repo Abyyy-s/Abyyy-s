@@ -8,22 +8,23 @@
 
 <p>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4375&pause=1425&color=016EEA&vCenter=true&width=450&lines=C%2B%2B+%26+Systems+Engineer;Creator+of+ChronoWall;AI+%2F+ML+Undergrad;Building+Software+That+Lasts" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1200&color=016EEA&vCenter=true&width=450&lines=C%2B%2B+%26+Rust+Systems+Dev;Building+Rust-Chess_Engine;Creator+of+ChronoWall;AI+%2F+ML+Undergrad;Building+Software+That+Lasts" alt="Typing SVG" />
   </a>
 </p>
 
 <ul>
+  <li> ♟️ <b>Current Research:</b> <a href="https://github.com/Abyyy-s/Rust-Chess_Engine"><b>Rust-Chess_Engine</b></a> — High-performance chess engine in Rust exploring bitboard representations, Alpha-Beta pruning, iterative deepening, and parallel search architecture. 🦀</li>
   <li> ⚡ <b>Flagship Project:</b> <a href="https://github.com/Abyyy-s/ChronoWall"><b>ChronoWall</b></a> — C++17 dynamic wallpaper daemon parsing GNOME XML schemas on Cinnamon.</li>
   <li> 🎨 <b>Companion:</b> <a href="https://github.com/Abyyy-s/ChronoWall-Wallpapers"><b>ChronoWall-Wallpapers</b></a> — Curated dynamic wallpaper packages.</li>
   <li> 🎓 <b>Education:</b> B.Tech Computer Science Engineering (AI & ML) at <b>College of Engineering Chengannur</b>.</li>
-  <li> 🔬 <b>Research:</b> <a href="https://github.com/Abyyy-s/hypergrid-lattice-core"><b>hypergrid-lattice-core</b></a> — Planar-topology analyzer & Hamiltonian trajectory optimizer.</li>
+  <li> 🔬 <b>Graph / Topology:</b> <a href="https://github.com/Abyyy-s/hypergrid-lattice-core"><b>hypergrid-lattice-core</b></a> — Planar-topology analyzer & Hamiltonian trajectory optimizer.</li>
   <li> 🩸 <b>Side Project:</b> <a href="https://github.com/Abyyy-s/Blood_bank"><b>Life Link</b></a> — AI-assisted blood bank management system.</li>
-  <li> 💻 <b>Tech Stack:</b> C++17/20, Linux, Python, JavaScript, MySQL, Flask, Git.</li>
+  <li> 💻 <b>Tech Stack:</b> Rust, C++17/20, Linux, Python, JavaScript, MySQL, Flask, Git.</li>
   <li> 📫 <b>How to reach me:</b> <a href="mailto:abisbiju321@gmail.com">abisbiju321@gmail.com</a></li>
 </ul>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,linux,git,js,mysql,flask&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=rust,cpp,python,linux,git,js,mysql,flask&theme=dark" alt="Tech Stack" />
 </p>
 
 <p>
