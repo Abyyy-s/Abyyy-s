@@ -22,6 +22,10 @@
   <li> 📫 <b>How to reach me:</b> <a href="mailto:abisbiju321@gmail.com">abisbiju321@gmail.com</a></li>
 </ul>
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,linux,git,js,mysql,flask&theme=dark" alt="Tech Stack" />
+</p>
+
 <p>
   <a href="https://www.linkedin.com/in/aby-s-biju-795826339/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/Abyyys5"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
@@ -36,11 +40,20 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & 3D Contribution Skyline
 
 <p align="center">
   <a href="https://github.com/Abyyy-s"><img width="34%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" /></a>
   <a href="https://github.com/Abyyy-s"><img width="64%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" /></a>
+</p>
+
+<!-- 3D CONTRIBUTION SKYLINE & ACTIVITY RADAR (Yoshi389111 Style) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+    <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Skyline" width="100%">
+  </picture>
 </p>
 
 ---
