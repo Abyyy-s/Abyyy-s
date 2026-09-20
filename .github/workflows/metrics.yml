@@ -14,6 +14,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          user: Abyyy-s
           token: ${{ secrets.GITHUB_TOKEN }}
           filename: github-metrics.svg
           base: ""
