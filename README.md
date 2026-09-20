@@ -1,6 +1,6 @@
-<!-- TOP INTRO GREETING (Raymo111 Intro GIF Banner) -->
+<!-- TOP INTRO GREETING (Raymo111 Style Intro GIF with Aby's Content) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" width="100%" alt="Intro Banner" />
+  <img src="https://raw.githubusercontent.com/Abyyy-s/Abyyy-s/main/intro.gif" width="100%" alt="👋 Hi there! I'm Aby S Biju" />
 </p>
 
 <!-- HERO SECTION: LEFT-ALIGNED TYPING & BIO, RIGHT-ALIGNED CODER GIF (8BitJonny Style) -->
