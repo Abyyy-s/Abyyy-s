@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1200&color=016EEA&vCenter=true&width=450&lines=C%2B%2B+%26+Rust+Systems+Dev;Building+Rust-Chess_Engine;Creator+of+ChronoWall;AI+%2F+ML+Undergrad;Building+Software+That+Lasts" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1200&color=016EEA&vCenter=true&width=450&lines=C%2B%2B+%26+Rust+Systems+Dev;Building+Rust-Chess_Engine;Building+Systems+Software;AI+%2F+ML+Undergrad;Building+Software+That+Lasts" alt="Typing SVG" />
   </a>
 </p>
 
